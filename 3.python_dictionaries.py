@@ -10,6 +10,7 @@ my_dict={
     'Dragon Fruit':180,
     'Guava':100,
     'Strawberry':70,
+    'watermelon':65,
     'Other':400
     }
 
